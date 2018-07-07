@@ -1,2 +1,2 @@
 # haskell-onward
-Getting to understand haskell
+learn haskell by implementing sed.
